@@ -38,6 +38,6 @@
   },
   "dependencies": {
     "chalk": "^1.1.3",
-    "fastboot": "^1.0.0-rc.3"
+    "fastboot": "jmadson/fastboot#48ea6332b3f5f5ddc86233cb23859268caa88453"
   }
 }
